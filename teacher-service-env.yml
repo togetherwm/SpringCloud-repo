@@ -1,0 +1,4 @@
+mysqldb.datasource.driver=
+mysqldb.datasource.url=
+mysqldb.datasource.username=root
+mysqldb.datasource.psssword=489188
